@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Boen DeGroote 👋
 
-<!--
-**bobofett47/bobofett47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+Located in beautiful San Francisco 🌉
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📆 **Started:** December 2nd, 2025
+- 👔 **Manager:** Gurinder Taunque
+- 🌎 **Location:** San Francisco
+
+### A Few Things About Me
+
+- 🚀 Have an interest in self improvement
+- 🌳 Enjoy spending time outdoors
+- 🚗 Passionate about cars
+- 🐾 Love spending time with my family and dog
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/boen-degroote-b74738234)
+
+Thanks for stopping by!
